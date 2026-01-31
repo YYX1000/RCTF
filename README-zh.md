@@ -1,6 +1,20 @@
->he original author of this project has discontinued its maintenance. As I have a strong interest in robotics security, I will now take over the corresponding maintenance tasks.
+# Robotics CTF (RCTF)（维护分支）
+> **原项目声明**  
+> 本项目基于 RCTF 构建，遵循 GNU General Public License v3.0。  
+> 原项目作者：[aliasrobotics]，原仓库：[https://github.com/aliasrobotics/RCTF](https://github.com/aliasrobotics/RCTF)
+> **原项目已停止维护。**
 
-# Robotics CTF (RCTF)
+> **维护声明**  
+> 自 2026 年起，本项目由YYX1000维护，专注于安全更新和功能改进。  
+> 维护分支地址：`https://github.com/YYX1000/RCTF`
+
+## 📄 许可证
+本项目在 GNU GPL v3 许可证下发布。详见 [LICENSE](LICENSE) 文件。
+
+**重要**：作为 GPL v3 项目：
+1. 您可以自由使用、修改和分发本软件
+2. **但任何基于本项目的衍生作品也必须使用 GPL v3 开源**
+3. 您必须保留完整的版权和许可证声明
 
 <a href="http://www.aliasrobotics.com"><img src="./image/alias.png" align="left" hspace="8" vspace="2" width="200"></a>
 

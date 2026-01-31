@@ -1,6 +1,22 @@
-> This repository has been archived and is not maintained any further. Refer to [alurity](https://aliasrobotics.com/alurity.php) if you wish to access pre-built robots challenges and robotic environments.
+# Robotics CTF (RCTF) (Maintenance Branch)
+> **Original Project Declaration**  
+> This project is built based on RCTF, following the GNU General Public License v3.0.  
+> Original project author: [aliasrobotics], original repository: [https://github.com/aliasrobotics/RCTF](https://github.com/aliasrobotics/RCTF)
+> **The original project is no longer maintained.**
 
-# Robotics CTF (RCTF)
+> **Maintenance Declaration**  
+> Since 2026, this project has been maintained by YYX1000, focusing on security updates and feature improvements.  
+> Maintenance branch address: `https://github.com/YYX1000/RCTF`
+
+## 📄 License
+This project is released under the GNU GPL v3 license. See the [LICENSE](LICENSE) file for details.
+
+**Important**: As a GPL v3 project:
+1. You are free to use, modify, and distribute this software
+2. **But any derivative work based on this project must also be open source under GPL v3**
+3. You must retain the complete copyright and license notices
+
+中文: [中文文档](README-zh.md)
 
 <a href="http://www.aliasrobotics.com"><img src="./image/alias.png" align="left" hspace="8" vspace="2" width="200"></a>
 
